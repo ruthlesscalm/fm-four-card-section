@@ -1,111 +1,53 @@
-# 🚀 Frontend Mentor - Four Card Feature Section
-"Four Card layout landing page that is responsive and accessible built with semantic HTML, modular CSS and Vanilla JS"
+# Four Card Feature Section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
+This is one of my Frontend Mentor challenge projects.
 
-## 🔗 Links 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-400400-accessibility-clamp-magic-and-with-a-theme-switcher-JceynnMrQa)
-- Live Site URL: [Four Card Section](https://ruthlesscalm.github.io/fm-four-card-section/)
+## Links
 
-## 🔍 Table of contents
+This is the challenge - [Four Card Feature Section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
-- [🚀 Frontend Mentor - Four Card Feature Section](#-frontend-mentor---four-card-feature-section)
-  - [🔗 Links](#-links)
-  - [🔍 Table of contents](#-table-of-contents)
-  - [📔 Overview](#-overview)
-    - [🎯 The Challenge](#-the-challenge)
-    - [📷 Screenshots](#-screenshots)
-      - [🎬 Preview](#-preview)
-      - [📊 Accessibility Report](#-accessibility-report)
-  - [📦 Features](#-features)
-  - [📌 Tech Stacks](#-tech-stacks)
-  - [🛠️ Tools](#️-tools)
-  - [📚 Credits /  References](#-credits---references)
-  - [👤 Author](#-author)
-  - [🤝 Contributing](#-contributing)
-  - [📄 License](#-license)
-    
+* Live Demo: [Four Card Feature Section](https://ruthlesscalm.github.io/fm-four-card-section/)
 
-## 📔 Overview
+## Preview
 
-### 🎯 The Challenge
-
-- Build landing page using HTML and CSS
-- Should be responsive
-- Should be interactive ( hover states , focus states etc)
-- Ensure Strong Web Accessibility
-- Light/Dark mode switcher
-
-### 📷 Screenshots
-
-#### 🎬 Preview
-
-- **Desktop Light** 
+* **Desktop Light**
 
 ![](screenshots/desktop-light.webp)
 
-- **Desktop Dark** 
+* **Desktop Dark**
 
 ![](screenshots/desktop-dark.webp)
 
-- **Tablet** 
-
-![](screenshots/tablet-light.webp)
-
-- **Mobile** 
+* **Mobile**
 
 ![](screenshots/mobile-light.webp)
 
-- **Zoom - 150%**
+## Features
 
-![](screenshots/zoom.webp)
+* Fully fluid and responsive layout (280px to 1920px)
+* Accessibility-focused (semantic HTML, focus states, screen reader friendly)
 
-#### 📊 Accessibility Report
+## Tech Stack
 
-![](screenshots/accessibility.webp)
+* HTML
+* CSS
+* JavaScript
 
-## 📦 Features
+## Credits / References
 
-- Fully fluid and responsive layout (280px to 1920px)
-- Custom box shadows using CSS variables
-- Light/Dark mode toggle
-- Web-accessible (focus states , semantic Html , screen reader friendly)
+* [Joshua Comeau](https://www.joshwcomeau.com/)
+  * [Shadow Palette](https://www.joshwcomeau.com/shadow-palette/)
+  * [Box Shadow Techniques](https://www.joshwcomeau.com/css/designing-shadows/)
+  * [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+* [Piccalilli - Andy Bell](https://piccalil.li/author/andy-bell/)
 
-## 📌 Tech Stacks
+  * [Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
+* [Tobias Ahlin Bjerrome](https://tobiasahlin.com/)
 
-- HTML 5
-- CSS 3
-- Vanilla Js
+  * [Box Shadow Techniques](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
 
-## 🛠️ Tools
+## License
 
-- [Google Fonts](https://fonts.google.com/?preview.text=Nature) - Fonts (CDN and ttf files)
-- [Transfonter](https://transfonter.org/) - Conversion of font files (ttf, woff, woff2, eot, svg) and font face generator
-- [Real Favicon Generator](https://realfavicongenerator.net) - Generate mutiple format favicons and customize site.webmanifest
-- [Svg Repo](https://www.svgrepo.com/) - Customisable icons in various formats and size (svg and png)
-- [squoosh](https://squoosh.app/) - Conversion of image files (png, jpeg, avif, webp etc)
+This project is licensed under the MIT License.
 
-## 📚 Credits /  References
-
-- [Joshua Comeau](https://www.joshwcomeau.com/)
-    - [Shadow pallete](https://www.joshwcomeau.com/shadow-palette/)
-    - [Box shadow techniques](https://www.joshwcomeau.com/css/designing-shadows/)
-    - [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [Picallili - Andy Bell](https://piccalil.li/author/andy-bell/)
-    - [Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
-- [Tobias Ahlin Bjerrome](https://tobiasahlin.com/)
-    - [Box shadow techniques](https://tobiasahlin.com/blog/layered-smooth-box-shadows/)
-
-## 👤 Author
-
-- Github - [Ruthless Calm](https://github.com/ruthlesscalm)
-- Frontend Mentor - [Ruthless Calm](https://www.frontendmentor.io/profile/ruthlesscalm)
-
-## 🤝 Contributing
-
-Pull req are welcome. For major changes, open an issue first.
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).  
-You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
+Feel free to use the code for learning, experimentation, or reference.
